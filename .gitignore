@@ -26,3 +26,5 @@ venv/
 
 # OS / Misc
 Thumbs.db
+project_2/faiss_index/index.faiss
+project_2/faiss_index/index.pkl
